@@ -1,0 +1,23 @@
+.objects, #result_object_accuracy,#result_object_name
+{
+ color:blueviolet;
+}
+
+#camera
+{
+ border: 2px dotted blueviolet ;
+ width:320px;
+ height:300px;
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+body
+{
+ background:pink;
+ color:white;
+}
